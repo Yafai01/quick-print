@@ -1,0 +1,6 @@
+{
+  "name": "QuickPrint",
+  "description": "Mobile-first self-service college printing station web app for instant QR-to-print workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
